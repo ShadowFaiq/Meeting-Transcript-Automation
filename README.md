@@ -1,4 +1,4 @@
-# 📧 AI‑Powered Email Summarizer — Full Technical Documentation (Extended Edition)
+# 📧 AI‑Powered Email Summarizer — Documentation 
 
 > **Version:** 1.0
 > **Maintainer:** Your Name
